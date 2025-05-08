@@ -2,16 +2,16 @@
 # Gradio UI : https://df3a85d18f67a946b6.gradio.live/
 
 ## https://www.kaggle.com/code/meruvajashuva/notebooke76d783247/edit
-# 🌀 Text-to-3D Generator using Kandinsky 2.1 + Shap-E
+#  Text-to-3D Generator 
 
 This project allows you to generate **3D-style rotating objects** from simple text prompts. It uses:
-- **Kandinsky 2.1** (by community) to generate high-quality 2D images from text
-- **Shap-E Img2Img** (by OpenAI) to convert 2D images into rotating 3D-like GIFs
+- Kandinsky 2.1 (by community) to generate high-quality 2D images from text
+- Shap-E Img2Img (by OpenAI) to convert 2D images into rotating 3D-like GIFs
 - **Gradio** for a simple web UI
 
 ---
 
-## ✨ Features
+##  Features
 
 - Input a natural language prompt
 - Generate realistic 2D image using Kandinsky
@@ -20,7 +20,7 @@ This project allows you to generate **3D-style rotating objects** from simple te
 
 ---
 
-## 🖼️ Demo Flow
+##  Demo Flow
 
 1. Input Prompt → `"A cheeseburger, white background, 3D"`
 2. Kandinsky 2.1 generates a 2D image of a cheeseburger
@@ -29,7 +29,7 @@ This project allows you to generate **3D-style rotating objects** from simple te
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 | Component       | Library             |
 |----------------|---------------------|
@@ -40,7 +40,7 @@ This project allows you to generate **3D-style rotating objects** from simple te
 
 ---
 
-## 🛠 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/your-repo/text-to-3d-generator
