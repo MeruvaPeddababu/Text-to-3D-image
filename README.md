@@ -32,8 +32,7 @@ This project allows you to generate **3D-style rotating objects** from simple te
 ##  Technologies Used
 
 | Component       | Library             |
-|----------------|---------------------|
-| Text-to-Image   | `diffusers` (Kandinsky 2.1) |
+|----------------|---------------------||
 | Image-to-3D GIF | `diffusers` (Shap-E Img2Img) |
 | UI              | `gradio`            |
 | Image Handling  | `PIL`, `export_to_gif`      |
